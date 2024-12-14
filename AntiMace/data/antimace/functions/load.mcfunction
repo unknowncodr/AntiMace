@@ -1,0 +1,1 @@
+    tellraw @a {"text": "Made by Unknown Coder", "color": "#0000FF"}
